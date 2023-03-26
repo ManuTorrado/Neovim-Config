@@ -9,10 +9,11 @@ use {'nvim-tree/nvim-tree.lua'}
 
 use {'romgrk/barbar.nvim', requires = 'nvim-web-devicons'}
 -- Tokyonight theme
-use 'folke/tokyonight.nvim'
+use 'folke/tokyonight.nvim' 
 
---Plug 'itchyny/lightline.vim'
-
-
+use {
+  'nvim-lualine/lualine.nvim',
+  requires = { 'kyazdani42/nvim-web-devicons', opt = true }
+}
 end)
 

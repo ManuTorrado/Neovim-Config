@@ -8,3 +8,4 @@ Once I start my nvim session I can install my listed packages on ~/.config/nvim/
 vim-plug  also helps to manage some plugins with PlugInstall
 
 https://github.com/junegunn/vim-plug
+https://github.com/wbthomason/packer.nvim

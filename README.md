@@ -1,7 +1,7 @@
 # Neovim-Config
 
 To manage Neovim plugins there are several options.
-Im currently using nvim packer.
+Im currently using nvim packer and vim-plug.
 
 Once I start my nvim session I can install my listed packages on ~/.config/nvim/lua/plugins.lua with Vim commands :PackerInstall or :PackerSync
 
